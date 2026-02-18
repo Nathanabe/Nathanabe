@@ -1,54 +1,34 @@
-# Nathan 🚀
+# 👋 Hi, I'm Nathan
 
-### Backend Engineer | API Architect | Infrastructure Builder
+Backend Engineer | API Architect | Systems Thinker
 
-I build backend systems that are structured, secure, and scalable.
-
-Currently engineering:
-
-### 🧠 Dustid — Intelligent Gifting Infrastructure
-> A smart system enabling secure gifting without exposing physical addresses.  
-Backend architecture, JWT/OAuth authentication, Shopify Checkout UI extensions, and API orchestration.
-
-### 📚 CourseMigo — Learning Management API
-> Full-featured backend for student & instructor workflows.  
-Role-based authentication, clean MVC architecture, RESTful APIs, and scalable database modeling.
-
-I turn concepts into production-ready systems — from API design to deployment.
+I build **scalable, secure, production-ready backend systems** with Node.js, Express, and modern architecture patterns.  
+Currently focused on projects that integrate APIs, authentication systems, and eCommerce platforms.
 
 ---
 
-## What I Do
+## 🛠 Featured Projects
 
-- Design clean backend architectures (MVC)
-- Build scalable REST APIs with Node.js + Express
-- Implement secure authentication systems (JWT, OAuth)
-- Integrate third-party platforms (Shopify, Webhooks, Extensions)
-- Structure codebases for long-term maintainability
-- Build MVPs with production-quality systems
+| Project | Description | Language | Stars |
+|---------|-------------|----------|-------|
+| [Dustid](https://github.com/Nathanabe/Dustid) | Intelligent gifting infrastructure; Shopify integration, JWT/OAuth auth, API orchestration | JavaScript | ⭐ |
+| [CourseMigo_API](https://github.com/Nathanabe/CourseMigo_API) | Learning management backend; role-based auth, MVC, REST APIs, scalable DB | JavaScript | ⭐ |
+| [mock-api-standalone](https://github.com/Nathanabe/mock-api-standalone) | Standalone mock API for testing and MVPs | JavaScript | ⭐ |
+| [dustid-widget](https://github.com/Nathanabe/dustid-widget) | Frontend widget integration for Dustid | JavaScript | ⭐ |
+| [alx-backend-python](https://github.com/Nathanabe/alx-backend-python) | Python backend exercises from ALX program | Python | ⭐ |
 
----
-
-## Current Focus
-
-- Infrastructure-level backend engineering
-- Secure API design & token lifecycle management
-- Shopify Checkout Extensions
-- WooCommerce plugin development (PHP)
-- System design thinking
+> ⚡ Note: Check out my repos for more projects, experiments, and ALX coursework.
 
 ---
 
-## Tech Stack
+## 🧩 Tech Stack
 
-**Backend:** Node.js, Express  
-**Languages:** JavaScript, TypeScript, PHP, Python, C  
-**Auth:** JWT, OAuth  
-**Tools:** Swagger, Postman, Vim, GitHub  
-**Deployment:** Render  
-
----
-
-Engineering Philosophy: clarity over complexity. Structure over chaos. Systems over scripts.
-
+```bash
+Languages: JavaScript, TypeScript, PHP, Python, C
+Backend: Node.js, Express
+Authentication: JWT, OAuth
+Frontend: React (Shopify UI Extensions)
+Databases: SQL & NoSQL fundamentals
+Tools: Swagger, Postman, GitHub, Vim
+Deployment: Render
 Open to infrastructure-heavy backend challenges.
