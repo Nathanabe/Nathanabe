@@ -1,16 +1,54 @@
-### Hi there 👋
+# Nathan 🚀
 
-<!--
-**Nathanabe/Nathanabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Engineer | API Architect | Infrastructure Builder
 
-Here are some ideas to get you started:
+I build backend systems that are structured, secure, and scalable.
 
-- 🔭 I’m currently working on RSA CHALLENGE
-- 🌱 I’m currently learning Software Engineering, in Alx
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love cooking 
--->
+Currently engineering:
+
+### 🧠 Dustid — Intelligent Gifting Infrastructure
+> A smart system enabling secure gifting without exposing physical addresses.  
+Backend architecture, JWT/OAuth authentication, Shopify Checkout UI extensions, and API orchestration.
+
+### 📚 CourseMigo — Learning Management API
+> Full-featured backend for student & instructor workflows.  
+Role-based authentication, clean MVC architecture, RESTful APIs, and scalable database modeling.
+
+I turn concepts into production-ready systems — from API design to deployment.
+
+---
+
+## What I Do
+
+- Design clean backend architectures (MVC)
+- Build scalable REST APIs with Node.js + Express
+- Implement secure authentication systems (JWT, OAuth)
+- Integrate third-party platforms (Shopify, Webhooks, Extensions)
+- Structure codebases for long-term maintainability
+- Build MVPs with production-quality systems
+
+---
+
+## Current Focus
+
+- Infrastructure-level backend engineering
+- Secure API design & token lifecycle management
+- Shopify Checkout Extensions
+- WooCommerce plugin development (PHP)
+- System design thinking
+
+---
+
+## Tech Stack
+
+**Backend:** Node.js, Express  
+**Languages:** JavaScript, TypeScript, PHP, Python, C  
+**Auth:** JWT, OAuth  
+**Tools:** Swagger, Postman, Vim, GitHub  
+**Deployment:** Render  
+
+---
+
+Engineering Philosophy: clarity over complexity. Structure over chaos. Systems over scripts.
+
+Open to infrastructure-heavy backend challenges.
